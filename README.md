@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **python, scala, sql, hadoop, spark and aws.**
 
-- 📫 How to reach me **rohanhossain47@gmail.com**
+- 📫 How to reach me **courses@techscope.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/techscope-edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techscope-edu" height="30" width="40" /></a>
-<a href="https://fb.com/techscope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techscope" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087709806681&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techscope" height="30" width="40" /></a>
 <a href="https://instagram.com/techscope_staffing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techscope_staffing" height="30" width="40" /></a>
 </p>
 
