@@ -7,9 +7,9 @@
 
 - 📄 Learn more at [https://techscope.org/](https://techscope.org/)
 
-- 💬 Ask me about **python, scala, sql, hadoop, spark and aws.**
+- 💬 Ask us about **python, scala, sql, hadoop, spark and aws.**
 
-- 📫 How to reach me **courses@techscope.org**
+- 📫 How to reach us **courses@techscope.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
